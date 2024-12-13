@@ -13,7 +13,7 @@ This site is a showcase of my skills, projects, and contributions to the tech co
 - **Contact Information**: Ways to get in touch with me or view my GitHub profile.
 
 ## 🔗 Live Site
-Check out the live website here: [https://your-username.github.io](https://your-username.github.io)
+Check out the live website here: [https://your-username.github.io](https://okinawaBlues.github.io)
 
 ## 📁 File Structure
 ```
@@ -36,8 +36,8 @@ Check out the live website here: [https://your-username.github.io](https://your-
 If you have suggestions for improving this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
 ## 📬 Contact
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Email: [your-email@example.com](mailto:loris086s@gmail.com)
+- GitHub: [https://github.com/your-username](https://github.com/okinawaBlues)
 
 ---
 Thanks for visiting! 🚀
